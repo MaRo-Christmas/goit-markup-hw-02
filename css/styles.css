@@ -65,10 +65,11 @@
   .sub-title-two {
     font-family: inherit;
     font-weight: 500;
-    font-size: 20px;
+    font-size: 36px;
     letter-spacing: 0.02em;
-    line-height: 1.2;
+    line-height: 1.11;
     color: var(--navy-blue);
+    text-align: center;
     margin: 0;
   }
   
