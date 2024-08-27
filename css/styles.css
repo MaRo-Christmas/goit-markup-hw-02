@@ -17,9 +17,6 @@
   body {
     font-family: 'Roboto', sans-serif;
     font-size: 16px;
-    line-height: 1.5;
-    letter-spacing: 0.02em;
-    margin: 0;
     color: var(--slate);
     background-color: var(--white);
   }
@@ -31,12 +28,8 @@
   }
   
   .text {
-    font-family: inherit;
-    font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
-    color: inherit;
-    margin: 0;
   }
   
   
@@ -51,37 +44,24 @@
   }
   
   .title {
-    font-family: inherit;
-    font-weight: 500;
     font-size: 56px;
     letter-spacing: 0.02em;
     line-height: 1.07;
     text-align: center;
     color: var(--white);
-    margin: 0;
   }
   
   
   .sub-title-two {
-    font-family: inherit;
-    font-weight: 500;
-    font-size: 36px;
-    letter-spacing: 0.02em;
-    line-height: 1.11;
-    color: var(--navy-blue);
-    text-align: center;
-    text-transform: capitalize;
-    margin: 0;
+    
   }
   
   .sub-title {
-    font-family: inherit;
     font-weight: 500;
     font-size: 20px;
     letter-spacing: 0.02em;
     line-height: 1.2;
     color: var(--navy-blue);
-    margin: 0;
   }
   
   .small-text {
@@ -92,9 +72,7 @@
   }
   
   .body-medium {
-    font-family: inherit;
     font-weight: 500;
-    font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
   }
