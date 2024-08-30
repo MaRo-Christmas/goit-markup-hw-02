@@ -82,11 +82,6 @@
     letter-spacing: 0.02em;
   }
 
-  .header-link {
-    line-height: 1.5;
-    letter-spacing: 0.02em;
-}
-
   .button-text {
     font-family: inherit;
     font-weight: 500;
@@ -125,6 +120,8 @@
   
   .address-link {
     color: var(--slate);
+    line-height: 1.5;
+    letter-spacing: 0.02em;
   }
   
   .hero {
